@@ -2,7 +2,7 @@
 
 ### 1. VR Solar System on Google Cardboard (Personal Hobby)
   
-  ![Figure 1](https://github.com/melongbob/kabam/blob/master/Screenshot_20191115-230033.png?raw=true | width=500)
+  ![Figure 1](https://github.com/melongbob/kabam/blob/master/Screenshot_20191115-230033.png?raw=true)
 
   [The source code is available at](https://github.com/melongbob)
   
