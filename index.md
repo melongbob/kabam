@@ -37,7 +37,7 @@
 </ul>   
 ### 3. Inverse Kinematics (School Project - CMPT 466 | Animation)
 
-  ![Figure 3](https://github.com/melongbob/kabam/blob/master/running_figure.PNG?raw=true)
+  ![Figure 3](https://github.com/melongbob/kabam/blob/master/right_arm_move.PNG?raw=true)
   
   (This assignment is still being marked. Source code was not posted here to prevent potential plagirism. Code can be provided upon request)
   
