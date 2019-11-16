@@ -2,7 +2,7 @@
 
 ### 1. VR Solar System on Google Cardboard (Personal Hobby)
   
-  ![]()
+  ![Figure 1](https://github.com/melongbob/kabam/blob/master/Screenshot_20191115-230033.png?raw=true =500x)
   [The source code is available at](https://github.com/melongbob)
   
   In September 2019, I attended a VR workshop organized by DesignLab. There, I created my first VR project using Unity and Android Studio. I enjoyed the experience so much that I bought Google Cardboard and built my own solar system in VR.
@@ -13,7 +13,7 @@
   
 ### 2. Forward Kinematics (School Project - CMPT 466 | Animation)
   
-  ![]()
+  ![Figure 2](https://github.com/melongbob/kabam/blob/master/running_figure.PNG?raw=true)
   [The source code is available at](https://github.com/melongbob)
   
   A BVH file containing a running stick figure data and coding template was provided by the instructor. When the user runs the completed code, pressing w will make the stick figure run in a circle.
@@ -28,7 +28,7 @@
       
 ### 3. Inverse Kinematics (School Project - CMPT 466 | Animation)
 
-  ![]()
+  ![Figure 3](https://github.com/melongbob/kabam/blob/master/running_figure.PNG?raw=true)
   [The source code is available at](https://github.com/melongbob)
   
   A code template including a stick figure in T-pose was provided by the instructor. When the user runs the completed code, the user can move the figure's right arm by pressing number keys from 1~6.
