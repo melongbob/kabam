@@ -16,7 +16,7 @@
   
   ![Figure 2](https://github.com/melongbob/kabam/blob/master/running_figure.PNG?raw=true)
   
-  [The source code is available at](https://github.com/melongbob)
+  The source code is available at [ForwardKinematic.cpp](https://github.com/melongbob/CMPT466-Animation/blob/master/CMPT466-985%20Program%20Assignment%201/build/ForwardKinematic.cpp)
   
   A BVH file containing a running stick figure data and coding template was provided by the instructor. When the user runs the completed code, pressing w will make the stick figure run in a circle.
   
