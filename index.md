@@ -21,20 +21,16 @@
   A BVH file containing a running stick figure data and coding template was provided by the instructor. When the user runs the completed code, pressing w will make the stick figure run in a circle.
   
   The main objective of the project was to compute rotations of each joints with respect to the rotation of the root node. My job was to implement the following three functions in ForwardKinematics.cpp:
-<ol>
+
+<ul>
     <li>computeLocalQuaternion(Joint* joint)</li>
-      <ul>
-      <li>converts provided Euler angles to quaternions, and calculates local rotations</li>
-      </ul>
+      <li>&nbsp;&nbsp;&nbsp;&nbsp; converts provided Euler angles to quaternions, and calculates local rotations</li>
     <li>computeGlobalQuaternion(Joint* joint, Vector4 localQuat)</li>
-      <ul>
-      <li>calculate current node's global rotation from the local rotation</li>
-      </ul>
+      <li>&nbsp;&nbsp;&nbsp;&nbsp; calculate current node's global rotation from the local rotation</li>
     <li>computeGlobalPosition(Joint* joint)</li>
-      <ul>
-      <li>calculate current node's global position</li>
-      </ul>
-</ol>   
+      <li>&nbsp;&nbsp;&nbsp;&nbsp; calculate current node's global position</li>
+</ul>   
+
 ### 3. Inverse Kinematics (School Project - CMPT 466 | Animation)
 
   ![Figure 3](https://github.com/melongbob/kabam/blob/master/right_arm_move.PNG?raw=true)
@@ -45,16 +41,12 @@
   
   The objective of this project was to implement inverse kinematics using two different methods (Cyclic Coordinate Descent and Jacobian). My task was to implement two different functions in InverseKinematics.cpp:
 
-<ol>
-    <li>CCDMode()</li>
-      <ul>
-      <li>implements inverse kinematics using CCD (iteratively calcuating child node's position with respect to the endpoint)</li>
-      </ul>
-    <li>JacobianMode()</li>
-      <ul>
-      <li>implements inverse kinematics using Jacobian method (using a Jacobian matrix, calculates how rotation change in parent nodes will affect the position of the endpoint)</li>
-      </ul>
-</ol>
+<ul>
+  <li>CCDMode()</li>
+  <li>&nbsp;&nbsp;&nbsp;&nbsp; implements inverse kinematics using CCD (iteratively calcuating child node's position with respect to the endpoint)</li>
+  <li>JacobianMode()</li>
+  <li>&nbsp;&nbsp;&nbsp;&nbsp; implements inverse kinematics using Jacobian method (using a Jacobian matrix, calculates how rotation change in parent nodes will affect the position of the endpoint)</li>
+</ul>
 
 <br/>
   Projects 2 and 3 show that I can contribute to an existing code, perform calculations necessary for computer graphics, and imiplement the mathematical operations in object-oriented programming language.
