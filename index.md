@@ -4,7 +4,7 @@
   
   ![Figure 1](https://github.com/melongbob/kabam/blob/master/Screenshot_20191115-230033.png?raw=true)
 
-  [The source code is available at](https://github.com/melongbob)
+  The github repository for my [Solar System](https://github.com/melongbob/SolarSystemVR)
   
   In September 2019, I attended a VR workshop organized by DesignLab. There, I created my first VR project using Unity and Android Studio. I enjoyed the experience so much that I bought Google Cardboard and built my own solar system in VR.
   
@@ -16,7 +16,7 @@
   
   ![Figure 2](https://github.com/melongbob/kabam/blob/master/running_figure.PNG?raw=true)
   
-  The source code is available at [ForwardKinematic.cpp](https://github.com/melongbob/CMPT466-Animation/blob/master/CMPT466-985%20Program%20Assignment%201/build/ForwardKinematic.cpp)
+  The actual code for [ForwardKinematic.cpp](https://github.com/melongbob/CMPT466-Animation/blob/master/CMPT466-985%20Program%20Assignment%201/build/ForwardKinematic.cpp)
   
   A BVH file containing a running stick figure data and coding template was provided by the instructor. When the user runs the completed code, pressing w will make the stick figure run in a circle.
   
@@ -56,4 +56,5 @@
       </ul>
 </ul>
 
+<br/>
   Projects 2 and 3 show that I can contribute to an existing code, perform calculations necessary for computer graphics, and imiplement the mathematical operations in object-oriented programming language.
